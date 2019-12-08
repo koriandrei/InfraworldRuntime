@@ -16,6 +16,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "OneOf.h"
 #include "GenUtils.generated.h"
 
 // XX - major version
